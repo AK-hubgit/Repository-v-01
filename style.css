@@ -12,3 +12,9 @@ h1 {
     color: olive;
     font-family: sans-serif;
 }
+
+.homeClass_addedClass {
+    background-color: chartreuse;
+    border: black 2px solid;
+    box-shadow: 10px 5px 2px;
+}
